@@ -1,3 +1,4 @@
-def sayHello(name) {
-    println "Hello, ${name}!"
+// vars/Chello.groovy
+def call() {
+    echo "Hello from Chello!"
 }
