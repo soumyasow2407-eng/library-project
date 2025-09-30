@@ -1,3 +1,3 @@
-def call() {
+def call () {
     echo "Starting the Build..."
 }
