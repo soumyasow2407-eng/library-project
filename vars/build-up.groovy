@@ -1,3 +1,3 @@
 def call() {
-    echo "Starting deployment..."
+    echo "Starting the Build..."
 }
